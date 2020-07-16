@@ -1,5 +1,6 @@
 # Proxy Collector and Validator
-Using python with Selenium to create a program to collect and validate many proxies quickly and simply. From the website: http://www.freeproxylists.net.
+Using python with Selenium to create a program to collect and validate many proxies quickly and simply. 
+ From the website: http://www.freeproxylists.net.
 
 ## Required 
 - python version 3.7
