@@ -1,4 +1,4 @@
-# -Proxy-Collector-and-Validator
+# Proxy Collector and Validator
 ## Overview
 Using python with Selenium to create a program to collect and validate many proxies quickly and simply.
 
