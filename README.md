@@ -1,17 +1,21 @@
 # Proxy Collector and Validator
 Using python with Selenium to create a program to collect and validate many proxies quickly and simply.
-From the website: http://www.freeproxylists.net
+From the website: http://www.freeproxylists.net.
 
 ## Required 
 - python version 3.7
 - pip
-- Google Chrome version 84.0.4147.89
+- Google Chrome
 
-## Libraries required for installation
+## Required for installation
 - Selenium
+- ChromeDriver
 - Pandas
 
 ## How to install
+### Program
+- [ChromeDriver](https://chromedriver.chromium.org/downloads)
+### Libraries
 - `pip install -r requirements.txt`
 ### or
 - `pip install selenium`
