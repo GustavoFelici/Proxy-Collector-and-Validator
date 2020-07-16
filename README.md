@@ -1,5 +1,5 @@
 # Proxy Collector and Validator
-Using python with Selenium to create a program to collect and validate many proxies quickly and simply. 
+Using python with Selenium to create a program to collect and another for validate many proxies quickly and simply. 
 
 ## Overview
 There are two programs, one with the function of collecting various proxies and exporting to a csv file and the other to validate them using multiple threads to increase their effectiveness.
