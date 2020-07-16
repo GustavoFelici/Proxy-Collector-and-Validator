@@ -4,7 +4,7 @@ Using python with Selenium to create a program to collect and validate many prox
 ## Required 
 - python version 3.7
 - pip
-- Google Chrome version 83.0.4103.116
+- Google Chrome version 84.0.4147.89
 
 ## Libraries required for installation
 - Selenium
